@@ -1,4 +1,4 @@
-# SMA CBT
+# Ruang Ujian
 
 Aplikasi prototipe ujian sekolah lokal dengan React, Vite, Dexie/IndexedDB, dan Tailwind CSS.
 
